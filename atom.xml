@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://verinfinity.github.io</id>
+    <id>http://infinity.ver0x1e.top</id>
     <title>Gridea</title>
-    <updated>2021-10-13T06:58:37.341Z</updated>
+    <updated>2021-10-14T03:23:52.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://verinfinity.github.io"/>
-    <link rel="self" href="https://verinfinity.github.io/atom.xml"/>
+    <link rel="alternate" href="http://infinity.ver0x1e.top"/>
+    <link rel="self" href="http://infinity.ver0x1e.top/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://verinfinity.github.io/images/avatar.png</logo>
-    <icon>https://verinfinity.github.io/favicon.ico</icon>
+    <logo>http://infinity.ver0x1e.top/images/avatar.png</logo>
+    <icon>http://infinity.ver0x1e.top/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://verinfinity.github.io/post/test/</id>
-        <link href="https://verinfinity.github.io/post/test/">
+        <id>http://infinity.ver0x1e.top/post/test/</id>
+        <link href="http://infinity.ver0x1e.top/post/test/">
         </link>
         <updated>2021-10-13T06:44:24.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://verinfinity.github.io/post/hello-gridea/</id>
-        <link href="https://verinfinity.github.io/post/hello-gridea/">
+        <id>http://infinity.ver0x1e.top/post/hello-gridea/</id>
+        <link href="http://infinity.ver0x1e.top/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
